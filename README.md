@@ -74,6 +74,9 @@ Here are a few sample dashboards from the Power BI report:
 <p align="center">
   <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%201.png" alt="Stroke Overview Dashboard" />
   <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%202.png alt="Stroke cases" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%201.png" alt="Stroke Overview Dashboard" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%201.png" alt="Stroke Overview Dashboard" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%201.png" alt="Stroke Overview Dashboard" />
 </p>
 
 ## 🙌 Acknowledgements

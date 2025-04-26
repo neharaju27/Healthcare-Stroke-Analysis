@@ -74,12 +74,8 @@ Here are a few sample dashboards from the Power BI report:
 <p align="center">
   <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%201.png" alt="Stroke Overview Dashboard" width="45%" style="margin: 1%; />
   <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%202.png" alt="Stroke cases" width="45%" style="margin: 1%; />
-</p>
-<p align="center">
   <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%203.png" alt="Health Risk Impacts" width="45%" style="margin: 1%; />
   <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/dashboard%204.png" alt="Demographics" width="45%" style="margin: 1%; />
-</p>
-<p align="center">
   <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/dashboard%205.png" alt="Q & A" width="45%" style="margin: 1%; />
 </p>
 

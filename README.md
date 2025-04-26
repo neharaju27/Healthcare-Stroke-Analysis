@@ -72,11 +72,11 @@ The stroke dataset includes the following columns:
 Here are a few sample dashboards from the Power BI report:
 
 <p align="center">
-  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%201.png" alt="Stroke Overview Dashboard" />
-  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%202.png" alt="Stroke cases" />
-  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%203.png" alt="Health Risk Impacts" />
-  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/dashboard%204.png" alt="Demographics" />
-  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/dashboard%205.png" alt="Q & A" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%201.png" alt="Stroke Overview Dashboard" width="500" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%202.png" alt="Stroke cases" width="500" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%203.png" alt="Health Risk Impacts" width="500" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/dashboard%204.png" alt="Demographics" width="500" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/dashboard%205.png" alt="Q & A" width="500" />
 </p>
 
 ## 🙌 Acknowledgements

@@ -67,10 +67,6 @@ The stroke dataset includes the following columns:
 - Clear dashboard presentation for stakeholders
 - End-to-end data pipeline from SQL to visualization
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🙌 Acknowledgements
 
 - [Kaggle: Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)

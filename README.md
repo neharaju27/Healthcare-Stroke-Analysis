@@ -1,6 +1,6 @@
 # Healthcare Stroke Analysis Project
 <p align="center">
-  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/LOGO.png" alt="Healthcare Stroke Analysis Logo" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/LOGO.png" alt="Healthcare Stroke Analysis Logo" width="400" />
 </p>
 This project combines SQL, Python, and Power BI to explore and visualize stroke-related healthcare data. It provides both backend data insights and frontend visualizations, helping identify key health indicators that influence stroke risk.
 

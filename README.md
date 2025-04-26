@@ -67,6 +67,15 @@ The stroke dataset includes the following columns:
 - Clear dashboard presentation for stakeholders
 - End-to-end data pipeline from SQL to visualization
 
+## 📸 Dashboard Previews
+
+Here are a few sample dashboards from the Power BI report:
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=Stroke+Overview+Dashboard" alt="Stroke Overview Dashboard" />
+  <img src="https://via.placeholder.com/600x300.png?text=Demographic+Analysis+Dashboard" alt="Demographic Analysis Dashboard" />
+</p>
+
 ## 🙌 Acknowledgements
 
 - [Kaggle: Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)

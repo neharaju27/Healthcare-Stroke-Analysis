@@ -72,7 +72,7 @@ The stroke dataset includes the following columns:
 Here are a few sample dashboards from the Power BI report:
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Stroke+Overview+Dashboard" alt="Stroke Overview Dashboard" />
+  <img src="https://github.com/neharaju27/Healthcare-Stroke-Analysis/blob/main/Dashboard%201.png" alt="Stroke Overview Dashboard" />
   <img src="https://via.placeholder.com/600x300.png?text=Demographic+Analysis+Dashboard" alt="Demographic Analysis Dashboard" />
 </p>
 
